@@ -2,7 +2,6 @@
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning codeing
 - 💞️ I’m looking to collaborate on codeing
-- 📫 How to reach me idk
 
 <!---
 Jesse8821/Jesse8821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
